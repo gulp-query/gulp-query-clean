@@ -1,0 +1,23 @@
+{
+    "name": "gulp-query-clean",
+    "version": "1.0.0",
+    "description": "Delete files and folders",
+    "main": "index.js",
+    "author": "Marat Nuriev",
+    "email": "nurieff@gmail.com",
+    "license": "MIT",
+    "repository": "https://github.com/gulp-query/gulp-query-clean",
+    "keywords": [
+        "clean",
+        "remove files",
+        "remove folders",
+        "gulp",
+        "gulp-query",
+        "gulp-query-plugin"
+    ],
+    "dependencies": {
+        "del": "^3.0.0",
+        "gulp": "^3.9.1",
+        "gulp-query": "^1.0.0"
+    }
+}
