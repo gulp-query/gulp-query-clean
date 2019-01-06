@@ -1,6 +1,6 @@
 {
     "name": "gulp-query-clean",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Delete files and folders",
     "main": "index.js",
     "author": "Marat Nuriev",
@@ -17,7 +17,7 @@
     ],
     "dependencies": {
         "del": "^3.0.0",
-        "gulp": "^3.9.1",
-        "gulp-query": "^1.0.0"
+        "gulp": "^4.0.0",
+        "gulp-query": "^1.1.3"
     }
 }
